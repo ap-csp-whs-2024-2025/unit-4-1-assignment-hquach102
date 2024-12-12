@@ -12,5 +12,8 @@ int main()
   
   std::cout << "I am " << age << " years old.\n";
 
+  std::string teacher = "Mr. Vu";
+  std::string favNum = "5";
+  std::cout << "My name is " << teacher << std:endl;
   return 0;
 }
